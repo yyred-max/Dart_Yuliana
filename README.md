@@ -2,7 +2,7 @@
 
 Nama: **Yuliana**  
 Mata Kuliah: Pemrograman Mobile  
-Dosen: ...
+Dosen: Rangga Kurnia Putra Wiratama
 
 ---
 
@@ -36,7 +36,7 @@ dart class_mahasiswa.dart
 ![Output Rata-rata](screenshots/Rata-rata.png)
 
 ### 3. Soal FizzBuzz
-![Output FizzBuzz](screenshots/fizzbuzz.png)
+![Output FizzBuzz](screenshots/fizzbuz.png)
 
 ### 4. Soal Class Mahasiswa
 ![Output Class Mahasiswa](screenshots/classmahasiswa.png)
