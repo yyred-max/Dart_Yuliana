@@ -27,17 +27,16 @@ dart class_mahasiswa.dart
 
 ```
 
-### Output 
+## Output
 
-1. Soal Persegi Panjang
+### 1. Soal Persegi Panjang
+![Output Persegi Panjang](screenshots/Persegipanjang.png)
 
-   `Persegipanjang.png`
-2. Soal Rata-rata & grade
+### 2. Soal Rata-rata & Grade
+![Output Rata-rata](screenshots/Rata-rata.png)
 
-   `Rata-rata.png`
-3. Soal FizzBuzz
+### 3. Soal FizzBuzz
+![Output FizzBuzz](screenshots/fizzbuzz.png)
 
-   `fizzbuzz.png`
-4. Soal Class Mahasiswa
-
-   `classmahasiswa.png`
+### 4. Soal Class Mahasiswa
+![Output Class Mahasiswa](screenshots/classmahasiswa.png)
